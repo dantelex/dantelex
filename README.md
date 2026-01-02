@@ -29,11 +29,9 @@
 | **[Private Connect](https://privateconnect.co)** | Access any service like it's localhost, no VPN, no firewall rules, no SSH tunnels |
 | **[Instant API](https://instantapi.co)** | Run AI agents with an API. It supports JavaScript, Python, webhooks, and more |
 
+<!-- --- -->
 
-
----
-
-<p align="center">
+<!-- <p align="center">
   <a href="https://dantelex.com">🌐 dantelex.com</a> · 
   <a href="https://twitter.com/dantelex">𝕏 Twitter</a>
-</p>
+</p> -->

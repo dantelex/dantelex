@@ -1,6 +1,6 @@
 # Hey, I'm Dante 👋
 
-📍 **Toronto, CA & San Francisco, US** | 🎨 **Building products at [Treadie](https://treadie.com)** | 💻 **Product Engineer**
+📍 **Toronto, CA & San Francisco, US**  |  🎨 **Building products at [Treadie](https://treadie.com)**  |  💻 **Product Engineer**
 
 > Passionate about solving software problems and pushing boundaries with seamless designs. 10+ years of experience building products that serve millions of users, taking them from zero to one.
 

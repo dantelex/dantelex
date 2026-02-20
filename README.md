@@ -22,14 +22,14 @@
 | Project | Description |
 |---------|-------------|
 | **[Onboardbase](https://onboardbase.com)** | Simpler alternative to HashiCorp Vault. Secrets management made easy |
+| **[hi.new](https://hi.new)** *(acquired)* | Spam-free contact form as a service |
 | **[Port Kill](https://portkill.com)** | The easiest and fastest way to monitor and kill dev ports |
 | **[GPU Kill](https://gpukill.com)** | The easiest and fastest way to monitor and kill runaway GPU jobs |
-| **[hi.new](https://hi.new)** *(acquired)* | Spam-free contact form as a service |
 | **[AI Ratelimit](https://airatelimit.com)** | The AI backend your mobile app needs. Secure API keys, rate limit users, track costs |
 | **[Private Connect](https://privateconnect.co)** | Access any service like it's localhost, no VPN, no firewall rules, no SSH tunnels |
+| **[Openboot](https://github.com/treadiehq/openboot)** | Stop writing start scripts. Stop copy-pasting agent files. Just boot |
 | **[Instant API](https://instantapi.co)** | Run AI agents with an API. It supports JavaScript, Python, webhooks, and more |
 | **[OS Context](https://github.com/treadiehq/os-context)** | Local snapshot of your machine (app, window, clipboard, battery, network) so AI agents give context-aware answers without screenshots or daemons |
-| **[Openboot](https://github.com/treadiehq/openboot)** | Stop writing start scripts. Stop copy-pasting agent files. Just boot |
 | **[Entrys](https://github.com/treadiehq/entrys)** | A single entry point for AI agents to access internal APIs and tools |
 | **[Securelog](https://github.com/treadiehq/securelog)** | Detects and prevents leaking secrets and API tokens into your logs |
 | **[Echos](https://github.com/treadiehq/echos)** | Pre-built AI agents you can customize with YAML |

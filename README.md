@@ -27,7 +27,7 @@
 | **[GPU Kill](https://gpukill.com)** | The easiest and fastest way to monitor and kill runaway GPU jobs |
 | **[AI Ratelimit](https://airatelimit.com)** | The AI backend your mobile app needs. Secure API keys, rate limit users, track costs |
 | **[Private Connect](https://privateconnect.co)** | Access any service like it's localhost, no VPN, no firewall rules, no SSH tunnels |
-| **[Openboot](https://github.com/treadiehq/openboot)** | Stop writing start scripts. Stop copy-pasting agent files. Just boot |
+| **[Openboot](https://openboot.co)** | One config for every AI coding tool. One command to start your whole stack. |
 | **[Instant API](https://instantapi.co)** | Run AI agents with an API. It supports JavaScript, Python, webhooks, and more |
 | **[OS Context](https://github.com/treadiehq/os-context)** | Local snapshot of your machine (app, window, clipboard, battery, network) so AI agents give context-aware answers without screenshots or daemons |
 | **[Entrys](https://github.com/treadiehq/entrys)** | A single entry point for AI agents to access internal APIs and tools |

@@ -27,13 +27,11 @@
 | **[GPU Kill](https://gpukill.com)** | The easiest and fastest way to monitor and kill runaway GPU jobs |
 | **[AI Ratelimit](https://airatelimit.com)** | The AI backend your mobile app needs. Secure API keys, rate limit users, track costs |
 | **[Private Connect](https://privateconnect.co)** | Access any service like it's localhost, no VPN, no firewall rules, no SSH tunnels |
-| **[Openboot](https://openboot.co)** | One config for every AI coding tool. One command to start your whole stack. |
+| **[Openboot](https://openboot.co)** | One tool for AI-assisted development. Keep your agents in sync, your sessions tracked, and your context intact, across projects, machines, and teammates. |
 | **[Do Not Forget](https://donotforget.co)** | A local-first app that captures text from any app into recording sessions — no cloud, no sync, just your notes on your machine |
 | **[AgentPI](https://github.com/treadiehq/agentpi)** | "Continue with Google", but for AI agents. Autonomous signup and login via API in minutes |
-| **[AI Session](https://github.com/treadiehq/aisession)** | Pick up any AI coding session on any machine, instantly |
 | **[Docle](https://docle.co)** | Check if an email address is real before you hit send — verifies syntax, DNS, MX records, SMTP mailbox existence, and cross-references multiple providers |
 | **[Instant API](https://instantapi.co)** | Run AI agents with an API. It supports JavaScript, Python, webhooks, and more |
-| **[OS Context](https://github.com/treadiehq/os-context)** | Local snapshot of your machine (app, window, clipboard, battery, network) so AI agents give context-aware answers without screenshots or daemons |
 
 <!-- --- -->
 

@@ -22,15 +22,14 @@
 | Project | Description |
 |---------|-------------|
 | **[Onboardbase](https://onboardbase.com)** | Simpler alternative to HashiCorp Vault. Secrets management made easy |
-| **[hi.new](https://hi.new)** *(acquired)* | Spam-free contact form as a service |
 | **[Port Kill](https://portkill.com)** | The easiest and fastest way to monitor and kill dev ports |
 | **[GPU Kill](https://gpukill.com)** | The easiest and fastest way to monitor and kill runaway GPU jobs |
 | **[Private Connect](https://privateconnect.co)** | Access any service like it's localhost, no VPN, no firewall rules, no SSH tunnels |
 | **[BYO](https://usebyo.com)** | Let your customers use their own AI API keys — drop-in vault and proxy; keys encrypted at rest, decrypted only for proxied calls, never stored raw on your backend |
-| **[AI Ratelimit](https://airatelimit.com)** | The AI backend your mobile app needs. Secure API keys, rate limit users, track costs |
 | **[OpenPreview](https://openpreview.co)** | Turn URLs, APIs, and command output into interactive terminal views — docs browser, API inspector, log triage, and diff viewer in the terminal |
 | **[AgentPI](https://github.com/treadiehq/agentpi)** | "Continue with Google", but for AI agents. Autonomous signup and login via API in minutes |
-| **[Docle](https://docle.co)** | Check if an email address is real before you hit send — verifies syntax, DNS, MX records, SMTP mailbox existence, and cross-references multiple providers |
+| **[InPlace Translate](https://github.com/dantelex/inplace-translate)** | Translate the text inside manga and comic pages without touching the art |
+| **[Undo](https://github.com/treadiehq/undo)** | Ctrl+Z for your filesystem. Protecting working directories from accidents, made simple |
 
 <!-- --- -->
 

@@ -29,6 +29,7 @@
 | **[Undo](https://useundo.co)** | Give your files an undo button. See what changed, compare versions, and restore files when something goes wrong |
 | **[Boot](https://useboot.co)** | Your workspace, on every machine. Boot puts your entire code folder on any laptop or cloud agent in seconds |
 | **[Regraft](https://useregraft.com)** | Copy code from any git repo, rewrite it to fit your project, and still pull upstream updates later |
+| **[Playdoc](https://useplaydoc.com)** | Turn your game idea into a playable prototype. Describe a mechanic, level, or challenge and test it in minutes |
 
 <!-- --- -->
 

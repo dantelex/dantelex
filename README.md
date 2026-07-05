@@ -1,6 +1,6 @@
 # Hey, I'm Dante 👋
 
-📍 **Toronto, CA & San Francisco, US**  |  🎨 **Building products at [Treadie](https://treadie.com)**  |  💻 **Product Engineer**
+📍 **Toronto, CA & San Francisco, US**   |  💻 **Product Engineer**
 
 > Passionate about solving software problems and pushing boundaries with seamless designs. 10+ years of experience building products that serve millions of users, taking them from zero to one.
 
@@ -20,16 +20,15 @@
 ## 🚀 Products I've Built
 
 | Project | Description |
-|---------|-------------|
-| **[Onboardbase](https://onboardbase.com)** | Simpler alternative to HashiCorp Vault. Secrets management made easy |
+| --------- | ------------- |
 | **[Port Kill](https://portkill.com)** | The easiest and fastest way to monitor and kill dev ports |
 | **[GPU Kill](https://gpukill.com)** | The easiest and fastest way to monitor and kill runaway GPU jobs |
-| **[Private Connect](https://privateconnect.co)** | Access any service like it's localhost, no VPN, no firewall rules, no SSH tunnels |
 | **[BYO](https://usebyo.com)** | Let your customers use their own AI API keys. Drop-in vault and proxy; keys encrypted at rest, decrypted only for proxied calls, never stored raw on your backend |
 | **[OpenPreview](https://openpreview.co)** | Turn URLs, APIs, and command output into interactive terminal views. Docs browser, API inspector, log triage, and diff viewer in the terminal |
-| **[InPlace Translate](https://github.com/dantelex/inplace-translate)** | Translate the text inside manga and comic pages without touching the art |
-| **[Undo](https://github.com/treadiehq/undo)** | Ctrl+Z for your filesystem. Protecting working directories from accidents, made simple |
-| **[Boot](https://github.com/treadiehq/boot)** | Dropbox for ~/code |
+| **[InPlace Translate](https://inplacetranslate.com)** | Translate text inside images without touching the art |
+| **[Undo](https://useundo.co)** | Give your files an undo button. See what changed, compare versions, and restore files when something goes wrong |
+| **[Boot](https://useboot.co)** | Your workspace, on every machine. Boot puts your entire code folder on any laptop or cloud agent in seconds |
+| **[Regraft](https://useregraft.com)** | Copy code from any git repo, rewrite it to fit your project, and still pull upstream updates later |
 
 <!-- --- -->
 
